@@ -1,2 +1,2 @@
 # bookbot
-Repository for the bookbot project exercise in python
+BookBot is my first project!
